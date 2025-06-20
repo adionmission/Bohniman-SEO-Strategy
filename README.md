@@ -1,5 +1,9 @@
 # Bohniman Systems SEO Strategy
 
+![GitHub License](https://img.shields.io/github/license/adionmission/Bohniman-SEO-Strategy)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Bohniman-SEO-Strategy)
+![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/Bohniman-SEO-Strategy)
+
 Ideated and implemented SEO strategy during my internship at Bohniman Systems, Guwahati, Assam, India
 
 ## Presentation Slides
